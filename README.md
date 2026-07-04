@@ -8,7 +8,7 @@ A curated collection of **LeetCode interview questions** organized by **company*
 
 ## 📖 Overview
 
-This repository categorizes LeetCode questions asked by various companies based on different time periods.
+This repository categorizes LeetCode questions asked by various companies based on different time periods
 
 ### Available Categories
 
