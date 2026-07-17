@@ -1,6 +1,6 @@
 # 🚀 LeetCode Company-wise Interview Questions
 
-A curated collection of **LeetCode interview questions** organized by **company** and **recency** to help students and software engineers prepare efficiently for coding interviews.
+A curated collection of **LeetCode interview questions** organized by **company** and **recency** to help students and software engineers prepare efficiently for coding interviews
 
 > 📌 This repository is intended for interview preparation and educational purposes.
 
